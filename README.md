@@ -45,7 +45,3 @@ I specialize in building **AI-powered systems using Prompt Engineering, LLM work
 📫 Contact Me
 Email: erit.nkpandey@outlook.com
 LinkedIn: https://www.linkedin.com/in/nand-kishor-pandey/
-
-
-* Email: [erit.nkpandey@outlook.com](mailto:erit.nkpandey@outlook.com)
-* LinkedIn: https://www.linkedin.com/in/nand-kishor-pandey/
